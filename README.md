@@ -1,6 +1,6 @@
 # Statistics
 통계 정리
-## 1. [라플라시안]()
+## 1. [라플라시안](https://github.com/joesiheon496/statistics/blob/master/store/Laplacian.md)
 
 ## 2. [Eigen Vector Part]()
 
