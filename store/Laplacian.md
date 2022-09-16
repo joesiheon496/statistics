@@ -4,7 +4,7 @@
 
 ## 라플라시안의 정의(Definition)
 유클리드 공간에서 두 번 미분할 수 있는 스칼라 함수 f에 대하여 라플라시안(Laplacian)은 f에 대한 그레디언트의 발산으로 정의되며 수식으로는 다음과 같다.
-$\Delta f = \Delta ^2 f = \nabla \cdot \nabla f$
+$$\Delta f = \Delta ^2 f = \nabla \cdot \nabla f$$
 
 > $\Delta$ : Delta
 > $\nabla$ : nabla
