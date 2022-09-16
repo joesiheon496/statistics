@@ -12,10 +12,13 @@ $\Delta f = \Delta ^2 f = \nabla \cdot \nabla f$
 라플라시안은 스칼라 함수에 대해서 $div(grad(f))$와 같이 gradient 연산을 먼저 취해준 뒤, 그것으로 출력되는 벡터장에 대해 divergence를 구한 것이다.
 
 Gradient는 경사도를 이야기하는데 가파르게 올라가는 방향으로 벡터장이 형성된다.
+
 ![image](https://user-images.githubusercontent.com/56191064/190578043-3e12b1dc-bfa3-496e-afb6-464d0a6e0616.png)
 
 ![image](https://user-images.githubusercontent.com/56191064/190578021-4c8698c5-a5cb-4be4-aec0-fd232bc45460.png)
+
 [참고](https://m.blog.naver.com/wideeyed/221029470554)
+
 ```python
 import copy
 import numpy as np
