@@ -1,5 +1,5 @@
 # Statistics
-
+통계 정리
 ## 1. [라플라시안]()
 
 ## 2. [Eigen Vector Part]()
