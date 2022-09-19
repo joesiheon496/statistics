@@ -103,4 +103,6 @@ plt.draw()
 plt.show()
 ```
 
+divergence가 수렴하면 음의 값
 
+divergence가 발산하면 양의 값
