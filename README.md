@@ -2,8 +2,4 @@
 통계 정리
 ## 1. [라플라시안](https://github.com/joesiheon496/statistics/blob/master/store/Laplacian.md)
 
-## 2. [Eigen Vector Part]()
-
-## 3. [가우시안]()
-
-## 4. [베이지안]()
+## 2. [확률](https://github.com/joesiheon496/statistics/blob/master/%ED%99%95%EB%A5%A0/%ED%99%95%EB%A5%A0%20%EA%B0%9C%EC%9A%94.md)
